@@ -1,1 +1,1 @@
-# Introduction-to-CV and NLP
+# Introduction to CV and NLP
